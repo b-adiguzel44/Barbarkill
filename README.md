@@ -1,7 +1,7 @@
 # Barbarkill
-## A CLI Turn-based (kind of) game in your terminal to play written in Python
-- Release Date = 12.07.2021
-- Version = 1.0.0
+
+- Release Date =  12.07.2021
+- Current Version =   1.0.0
 
 It's a text-based, turn-based CLI game to spend your time without getting bored while updating your system or your own softwares in your terminal. Today's people sure do hate uncivilized, violent barbarians that terrorize everyone that crosses their path. That's where you come in. Yes, you! We need to get rid of these memory-allocated barbarians from our system in order to maintain our system working. (Literally that's what we're doing)
 
