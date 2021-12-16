@@ -5,6 +5,13 @@
 
 It's a text-based, turn-based CLI game to spend your time without getting bored while updating your system or your own softwares in your terminal. Today's people sure do hate uncivilized, violent barbarians that terrorize everyone that crosses their path. That's where you come in. Yes, you! We need to get rid of these memory-allocated barbarians from our system in order to maintain our system working. (Literally that's what we're doing)
 
+## How to install & play
+- Open up your terminal
+- Enter the following code inside your terminal : `git clone https://github.com/b-adiguzel44/Barbarkill.git`
+- Navigate to the directory `cd Barbarkill (for Linux)` or `dir Barbarkill (for Windows)`
+- Enter the following code inside your terminal `pip3 install -r requirements.txt`
+- After the installation is done while you're inside the active directory enter the following code => `python Barbarkill.py`
+
 ## What does this game feature?
 Since this is my very first game and it's not like an AAA tier game or something, still there are few features I'd like to mention
 - Game modes
